@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MohdMoiz021
 - 👀 I’m interested in ... Web development
 - 🌱 I’m currently learning ... java script
-- 💞️ I’m looking to collaborate on ... Web development projects
+- 🔭 I’m looking to collaborate on ... Web development projects
 - 📫 How to reach me ... just ping me on linkedin 
 
 <!---
