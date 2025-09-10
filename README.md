@@ -11,7 +11,7 @@ I’m a passionate **full-stack developer** with expertise in building modern we
 - 🤝 **Collaborative Development** – Open to collaborating on exciting projects and contributing to open-source.  
 
 ## 📫 Let's Connect  
-📍 Ping me on **[LinkedIn] https://www.linkedin.com/in/mohd-moiz-uddin-ahmed/** or check out my projects here on **GitHub**!  
+📍 Ping me on LinkedIn https://www.linkedin.com/in/mohd-moiz-uddin-ahmed/** or check out my projects here on **GitHub**!  
 
 
 <!---
